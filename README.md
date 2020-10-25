@@ -1,16 +1,9 @@
-# fpl_predictor
+# FPL Predictor
 
-A new Flutter application.
+A new Flutter application which collects data from the FPL API and goes through a bunch of if and else to give you the best playing 11 with formation and cost for a particular week.
 
-## Getting Started
+## Additional Info
 
-This project is a starting point for a Flutter application.
+Well this project can be expanded more. If someone can help me with the authentication part then it would be great. After the authentication part, this app would become more personalized and better. 
+The FPL API: https://fantasy.premierleague.com/api/bootstrap-static/
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
