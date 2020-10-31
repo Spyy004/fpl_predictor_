@@ -1,6 +1,6 @@
 # FPL Predictor
 
-A new Flutter application which collects data from the FPL API and goes through a bunch of if and else to give you the best playing 11 with formation and cost for a particular week.
+A new Flutter application which collects data from the FPL API and goes through a bunch of basic filtering to give you the best playing 11 with formation and cost for a particular week. It also displays data of all the players currently playing in the Premier League along with their total FPL points.
 
 ## Additional Info
 
